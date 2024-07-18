@@ -3,23 +3,8 @@
 </p>
 
 <h1 align="center">
-  Let's discuss some code!🧑‍💻
+  Welcome fellow Coder...🧑‍💻
 </h1>
-
-<p align="center">
-  <a href="https://p">
-    <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
-  </a>
-  <a href="https://">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/JEjMWuhd" height="50"     width="50" />
-  </a>
-  <a href="https://dev.to/">
-    <img height="50" src="https://user-images.githubusercontent.com/46517096/166974096-7aeecad4-483e-4c85-983f-f4b37b3f794e.png"/>
-  </a>
-  <a href="https://twitter.com/">
-    <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
-  </a>
-</p>
 
 <p align="center">
   <img src= "https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
